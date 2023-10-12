@@ -1,0 +1,14 @@
+C:\Users\sutor\source\repos\ForGit\obj\Debug\net6.0\ForGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sutor\source\repos\ForGit\obj\Debug\net6.0\ForGit.AssemblyInfoInputs.cache
+C:\Users\sutor\source\repos\ForGit\obj\Debug\net6.0\ForGit.AssemblyInfo.cs
+C:\Users\sutor\source\repos\ForGit\obj\Debug\net6.0\ForGit.csproj.CoreCompileInputs.cache
+C:\Users\sutor\source\repos\ForGit\bin\Debug\net6.0\ForGit.exe
+C:\Users\sutor\source\repos\ForGit\bin\Debug\net6.0\ForGit.deps.json
+C:\Users\sutor\source\repos\ForGit\bin\Debug\net6.0\ForGit.runtimeconfig.json
+C:\Users\sutor\source\repos\ForGit\bin\Debug\net6.0\ForGit.dll
+C:\Users\sutor\source\repos\ForGit\bin\Debug\net6.0\ForGit.pdb
+C:\Users\sutor\source\repos\ForGit\obj\Debug\net6.0\ForGit.dll
+C:\Users\sutor\source\repos\ForGit\obj\Debug\net6.0\refint\ForGit.dll
+C:\Users\sutor\source\repos\ForGit\obj\Debug\net6.0\ForGit.pdb
+C:\Users\sutor\source\repos\ForGit\obj\Debug\net6.0\ForGit.genruntimeconfig.cache
+C:\Users\sutor\source\repos\ForGit\obj\Debug\net6.0\ref\ForGit.dll
